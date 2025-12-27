@@ -1,8 +1,9 @@
-# 🎮 Lava Quest
+# Lava Quest
 > Unity clone of Royal Kingdoms' Lava Quest Event mechanic. A platform-hopping elimination game with state-driven flow and modern game architecture.
 
 [![Unity](https://img.shields.io/badge/Unity-6000.0.58f2-black.svg?style=flat&logo=unity)](https://unity.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ---
 
