@@ -1,4 +1,4 @@
-# 🎮 LavaQuest
+# 🎮 Lava Quest
 > Unity clone of Royal Kingdoms' Lava Quest Event mechanic. A platform-hopping elimination game with state-driven flow and modern game architecture.
 
 [![Unity](https://img.shields.io/badge/Unity-6000.0.58f2-black.svg?style=flat&logo=unity)](https://unity.com/)
@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 LavaQuest is a Unity-based recreation of the popular elimination game mechanic from Royal Kingdoms. Players compete across multiple platforms, with each round eliminating competitors until only the victor remains. The project demonstrates modern Unity development practices, including state machine architecture, event-driven systems, and clean code design patterns.
 
